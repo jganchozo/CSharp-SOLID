@@ -1,2 +1,0 @@
-Curso: Design Patterns, Estudiantes: 9000, Valoración: 5
-Curso: Ionic, Estudiantes: 900, Valoración: 4.5

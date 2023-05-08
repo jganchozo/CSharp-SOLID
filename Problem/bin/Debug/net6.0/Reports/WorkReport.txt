@@ -1,2 +1,0 @@
-Curso: Design Patterns, Estudiantes: 9000, Valoración: 5
-Curso: Flutter, Estudiantes: 1900, Valoración: 4.5
