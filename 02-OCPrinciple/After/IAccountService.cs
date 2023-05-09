@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solution
+namespace After
 {
-    internal interface IShape
+    internal interface IAccountService
     {
-        string Area();
+        Staff Create(IApplicant applicant);
     }
 }

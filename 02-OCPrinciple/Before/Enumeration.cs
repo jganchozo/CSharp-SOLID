@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solution
+namespace Before
 {
-    internal interface IShape
+    internal enum Role
     {
-        string Area();
+        Doctor = 0,
+        Nurse = 1
     }
 }
