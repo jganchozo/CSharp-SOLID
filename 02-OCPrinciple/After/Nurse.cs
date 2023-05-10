@@ -10,6 +10,6 @@ namespace After
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public IAccountService Prossesor { get; set; } = new AccountServiceNurse();
+        public IAccountService Processor { get; set; } = new AccountServiceNurse();
     }
 }

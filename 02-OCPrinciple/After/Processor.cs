@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace After
 {
-    internal interface IApplicant
+    internal class Processor
     {
-        string FirstName { get; set; }
-        string LastName { get; set; }
-        IAccountService Processor { get; set; }
     }
 }
